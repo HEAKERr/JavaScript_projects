@@ -1,14 +1,1 @@
-Welcome to the Weather App! 🌤️
 
-This is a simple and intuitive weather website that allows you to search for weather information by city name. Powered by a reliable weather API, our website provides real-time weather updates for any city you wish to explore.
-
-Features
-City Search: Easily search for any city worldwide to get the latest weather information.
-Current Temperature: Displays the current temperature for the selected city.
-Humidity: Provides the current humidity level.
-Wind Speed: Shows the current wind speed to keep you informed about the weather conditions.
-
-Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express (optional)
-API: OpenWeatherMap API
